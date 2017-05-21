@@ -1,8 +1,8 @@
 //20161115PM
-#include<iostream>
+#include <cstdio>
 using namespace std;
 
 int main(){
-  cout << "helloWorld" << endl;
+  printf("HelloWorld\n")
   return 0;
 }
