@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-  printf("HelloWorld\n")
+  printf("HiWorld\n")
   return 0;
 }
